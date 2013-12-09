@@ -1,13 +1,9 @@
 # high-concept
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Functions I find myself needing to write, crazy high-concept stuff.
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Source Copyright © 2009-2013 John Sullivan
+Distributed under the Eclipse Public License, the same as Clojure
+uses. See the file COPYING
